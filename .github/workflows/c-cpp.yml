@@ -16,6 +16,6 @@ jobs:
     - name: make
       run: cd hello && make
     - name: make check
-      run: make check
+      run: cd hello && make check
     - name: make distcheck
-      run: make distcheck
+      run: cd hello && make distcheck
