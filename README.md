@@ -1,5 +1,5 @@
 # Kernel
  <a href="https://github.com/fredrikkortet/Kernel/actions">
-        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/fredrikkortet/Kernel/Main?color=%2360be86&style=for-the-badge">
+        <img alt="GitHub branch checks state" src="https://shields.io/github/workflow/status/fredrikkortet/Kernel/testModule">
     </a>
 Linux kernel module development
